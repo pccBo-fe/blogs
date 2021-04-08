@@ -7,7 +7,16 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "pages/react/汇总.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1617849657000,
+    "contributors": [
+      {
+        "name": "王博",
+        "email": "wangbo17@xiaomi.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {
