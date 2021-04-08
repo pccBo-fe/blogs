@@ -1,0 +1,15 @@
+{
+  "name": "blogs-dir",
+  "version": "1.0.0",
+  "description": "收录优秀博客并整理",
+  "main": "index.js",
+  "author": "王博 <wangbo17@xiaomi.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.6"
+  }
+}
