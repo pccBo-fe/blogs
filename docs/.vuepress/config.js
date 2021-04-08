@@ -24,7 +24,7 @@ module.exports = {
         {
           isGroup: true,
           // text: 'React 好文整理',
-          children: ['/pages/react/react hook相关.md'],
+          children: ['/pages/react/react fiber相关.md', '/pages/react/react hook相关.md', '/pages/react/react 其他重要知识点.md'],
         },
       ],
       '/pages/vue/': [

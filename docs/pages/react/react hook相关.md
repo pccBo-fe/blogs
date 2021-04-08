@@ -44,3 +44,4 @@
   对比总结了在开发过程中,hooks 所带来的变化以及如何去应对这种变化,有助于理解Dan所说的"心智模型"
 ### 《custom hook》
   - [custom hook设计规范](https://juejin.cn/post/6890738145671938062)  
+### [react hook vs vue3 composition api的讨论](https://www.zhihu.com/question/378861485/answer/1125724740)

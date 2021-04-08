@@ -59,16 +59,22 @@ export const data = {
       "title": "《custom hook》",
       "slug": "《custom-hook》",
       "children": []
+    },
+    {
+      "level": 3,
+      "title": "react hook vs vue3 composition api的讨论",
+      "slug": "react-hook-vs-vue3-composition-api的讨论",
+      "children": []
     }
   ],
   "filePathRelative": "pages/react/react hook相关.md",
   "git": {
-    "updatedTime": 1617849657000,
+    "updatedTime": 1617879696000,
     "contributors": [
       {
         "name": "王博",
         "email": "wangbo17@xiaomi.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   }

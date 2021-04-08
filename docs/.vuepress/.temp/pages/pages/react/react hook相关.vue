@@ -49,4 +49,5 @@
 <ul>
 <li><a href="https://juejin.cn/post/6890738145671938062" target="_blank" rel="noopener noreferrer">custom hook设计规范<OutboundLink/></a></li>
 </ul>
+<h3 id="react-hook-vs-vue3-composition-api的讨论"><a class="header-anchor" href="#react-hook-vs-vue3-composition-api的讨论">#</a> <a href="https://www.zhihu.com/question/378861485/answer/1125724740" target="_blank" rel="noopener noreferrer">react hook vs vue3 composition api的讨论<OutboundLink/></a></h3>
 </template>

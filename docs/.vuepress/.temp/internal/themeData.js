@@ -18,7 +18,9 @@
       {
         "isGroup": true,
         "children": [
-          "/pages/react/react hook相关.md"
+          "/pages/react/react fiber相关.md",
+          "/pages/react/react hook相关.md",
+          "/pages/react/react 其他重要知识点.md"
         ]
       }
     ],
